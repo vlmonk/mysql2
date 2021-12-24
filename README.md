@@ -1,3 +1,7 @@
+# Dirty hack, plase do not use.
+
+mysql2 gem ver. `0.5.3` released as `0.3.999`.
+
 # Mysql2 - A modern, simple and very fast MySQL library for Ruby - binding to libmysql
 
 GitHub Actions
